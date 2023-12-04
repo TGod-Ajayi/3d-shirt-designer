@@ -1,0 +1,10 @@
+{
+  "singleQuote": true,
+  "arrowParens": "always",
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "jsxSingleQuote": true,
+  "source.fixAll.eslint": true,
+  "bracketSameLine": true,
+  "endOfLine": "auto"
+}
